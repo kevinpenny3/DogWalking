@@ -58,4 +58,5 @@ INSERT INTO Dog ([Name], OwnerId, Breed, Notes) VALUES ('Lucy', 4, 'Boston Terri
 
 INSERT INTO Walks ([Date], Duration, WalkerId, DogId) VALUES ('01/01/2020', 30, 1,1);
 INSERT INTO Walks ([Date], Duration, WalkerId, DogId) VALUES ('01/02/2020', 40, 1,1);
-
+INSERT INTO Walks ([Date], Duration, WalkerId, DogId) VALUES ('03/15/2020', 40, 1,1);
+INSERT INTO Walks ([Date], Duration, WalkerId, DogId) VALUES ('03/17/2020', 40, 1,2);
